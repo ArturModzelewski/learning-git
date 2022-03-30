@@ -1,0 +1,11 @@
+/*General*/
+body {
+    margin: 25px;
+    padding: 15px;
+    text-align: left;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3 {
+    font-style: italic;
+}
